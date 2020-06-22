@@ -1,0 +1,2 @@
+# RMSE4002-Financial_Data_Analytics_with_Machine_Learning
+Financial Data Analytics with Machine Learning
